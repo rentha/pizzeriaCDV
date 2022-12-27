@@ -34,6 +34,14 @@
 |2. | Carbonara (spaghetti z podsmażanym boczkiem, cebulką i jajkiem)             |         | 25zł | 35zł |
 |3. | Spaghetti al Frutti di Mare (spaghetti z owocami morza w sosie pomidorowym) |         | 28zł | 38zł |
 
+## Sałatki 
+
+<img src = "img/sałatka.jpg">
+
+1. Toscana (mix sałat, pomidor, oliwa z oliwek) - 25zł
+2. Grecka (mix sałat, pomidory, feta, oliwki, ogórek, czerwona cebula, sos vinegrette , grzanki) - 28zł
+3. à la Cezar (kurczak, grilowany bekon, mix sałat, oliwki, pomidor, ogórek, czerwona cebula, sos vinegrette , grzanki) - 30zł 
+
 ## Sosy
 
 <img src = "img/sos.jpg" width = 300>
