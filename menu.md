@@ -23,3 +23,13 @@
 |2. |Vegetariana (sos pomidorowy, mozzarella, kukurydza, pomidorki koktajlowe, papryka, cebula, oregano) |         | 25zł | 35zł | 45zł |
 |3. |Veggie (sos pomidorowy, mozzarella, szpinak, cebula, pieczarki, czarne oliwki, ser grecki)          |         | 25zł | 35zł | 45zł |
 |4. |Quatro cheese (sos kremowy, sery: mozzarella, cheddar, ementaler, pleśniowy)                        |         | 28zł | 38zł | 48zł |
+
+## Makarony
+
+<img src = "img/makaron.jpg" width = 300>
+
+|Lp.| Makaron                                                                     | rozmiar | 350g | 500g |
+|---|-----------------------------------------------------------------------------|---------|------|------|
+|1. | Bolognese (spaghetti z sosem bolońskim)                                     |         | 22zł | 32zł |
+|2. | Carbonara (spaghetti z podsmażanym boczkiem, cebulką i jajkiem)             |         | 25zł | 35zł |
+|3. | Spaghetti al Frutti di Mare (spaghetti z owocami morza w sosie pomidorowym) |         | 28zł | 38zł |
