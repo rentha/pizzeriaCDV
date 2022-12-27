@@ -33,3 +33,34 @@
 |1. | Bolognese (spaghetti z sosem bolońskim)                                     |         | 22zł | 32zł |
 |2. | Carbonara (spaghetti z podsmażanym boczkiem, cebulką i jajkiem)             |         | 25zł | 35zł |
 |3. | Spaghetti al Frutti di Mare (spaghetti z owocami morza w sosie pomidorowym) |         | 28zł | 38zł |
+
+## Sosy
+
+<img src = "img/sos.jpg" width = 300>
+
+1. Ketchup - 5zł
+2. Czosnkowy - 5zł
+3. Majonez - 5zł
+4. BBQ - 5zł
+5. Pikantny pomidorowy - 5zł 
+
+## Napoje 
+
+<img src = "img/napoje.jpg" width = 300>
+
+|Lp.| Napój                            | rozmiar | 350ml| 500ml|
+|---|----------------------------------|---------|------|------|
+|1. | Woda gazowana/niegazowana        |         | 5zł  | 10zł |
+|2. | Sok pomarańćzowy/jabłkowy        |         | 8zł  | 12zł |
+|3. | Piwo jasne                       |         | 12zł | 15zł |
+|3. | Piwo ciemne                      |         | 12zł | 15zł |
+|3. | Piwo bezalkoholowe               |         | 12zł | 15zł |
+
+
+
+
+
+
+
+
+
