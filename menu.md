@@ -36,7 +36,7 @@
 
 ## Sałatki 
 
-<img src = "img/sałatka.jpg">
+<img src = "img/sałatka.jpg" width = 300>
 
 1. Toscana (mix sałat, pomidor, oliwa z oliwek) - 25zł
 2. Grecka (mix sałat, pomidory, feta, oliwki, ogórek, czerwona cebula, sos vinegrette , grzanki) - 28zł
