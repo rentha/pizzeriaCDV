@@ -4,4 +4,5 @@ PizzeriaCDV to rodzinny lokal, który specjalizuje się w przygotowywaniu wyjąt
 
 W naszej pizzerii zapewniamy przyjazną atmosferę i profesjonalną obsługę. Oferujemy możliwość zamawiania potraw na wynos lub z dostawą do domu lub biura, a także możliwość rezerwacji stolików. Organizujemy również imprezy okolicznościowe i uroczystości rodzinne.
 
-Zapraszamy do odwiedzenia naszej pizzerii w godzinach otwarcia od poniedziałku do piątku w godzinach 11:00-22:00. Akceptujemy płatności gotówką, kartami płatniczymi oraz za pomocą aplikacji mobilnej. Do dyspozycji gości jest bezpłatny parking.
+Zapraszamy do odwiedzenia naszej pizzerii w godzinach otwarcia od poniedziałku do piątku w godzinach 11:00-22:00 oraz w sobotę i niedzielę w godzinach 12:00-23:00. Akceptujemy płatności gotówką, kartami płatniczymi oraz za pomocą aplikacji mobilnej. Do dyspozycji gości jest bezpłatny parking.
+
