@@ -94,3 +94,22 @@ Dodaj pomidory i białe wino. Dopraw solą i pieprzem do smaku.
 Gotuj sos przez około 10-15 minut, aż zgęstnieje.
 Dodaj owoce morza i gotuj przez kolejne 5 minut, aż się ugotują.
 Do sosu dodaj ugotowany makaron i wymieszaj. Podawaj natychmiast, posypując posiekaną bazylią.
+
+## Sałatki 
+
+### Toscana
+
+Składniki:
+1/2 pęczka sałaty rzymskiej
+1/2 pęczka sałaty rukoli
+1 pomidor, pokrojony w kostkę
+1/2 małej czerwonej cebuli, pokrojonej w kostkę
+100 g sera feta, pokruszonego
+1/4 szklanki oliwy z oliwek
+1 łyżeczka soku z cytryny
+sól i pieprz do smaku
+
+Przygotowanie:
+W dużym naczyniu połącz sałatę rzymską, sałatę rukolę, pomidora i czerwoną cebulę.
+W osobnym naczyniu wymieszaj oliwę z oliwek, sok z cytryny, sól i pieprz. Polej sałatkę i delikatnie wymieszaj.
+Posyp pokruszonym serem feta i podawaj natychmiast.
