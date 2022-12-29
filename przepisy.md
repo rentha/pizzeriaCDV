@@ -68,9 +68,29 @@ Składniki:
 sól i pieprz do smaku
 
 Przygotowanie:
-Ugotuj makaron spaghetti według instrukcji na opakowaniu. Osącz i odstaw.
 W małym rondelku podgrzej oliwę z oliwek i dodaj posiekany czosnek. Smaż przez kilka minut, aż zacznie się złocić.
 W międzyczasie pokrój boczek w kostkę i podsmaż na patelni aż zrumieni się z obu stron.
 W dużej misce roztrzep jajka z parmezanem, solą i pieprzem.
 Do jajek dodaj ugotowany makaron i podsmażony boczek z czosnkiem. Wymieszaj, aż makaron zostanie dokładnie pokryty sosem.
 Podawaj natychmiast, oprószając dodatkowo startym parmezanem.
+
+### Frutti di Mare
+
+Składniki: 
+300 g różnych owoców morza (np. kalmary, krewetki, małże)
+1 cebula, posiekana
+2 ząbki czosnku, posiekane
+1/2 łyżeczki chili flakes (opcjonalnie)
+2 łyżki oliwy z oliwek
+1 puszka pomidorów
+1/2 szklanki białego wina
+sól i pieprz do smaku
+1 łyżka posiekanej świeżej bazylii
+
+Przygotowanie:
+W dużym garnku lub patelni rozgrzej oliwę z oliwek i dodaj posiekaną cebulę i czosnek. Smaż przez kilka minut, aż cebula zmięknie.
+Dodaj chili flakes i smaż przez kolejne kilka minut.
+Dodaj pomidory i białe wino. Dopraw solą i pieprzem do smaku.
+Gotuj sos przez około 10-15 minut, aż zgęstnieje.
+Dodaj owoce morza i gotuj przez kolejne 5 minut, aż się ugotują.
+Do sosu dodaj ugotowany makaron i wymieszaj. Podawaj natychmiast, posypując posiekaną bazylią.
