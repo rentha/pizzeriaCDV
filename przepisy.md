@@ -28,7 +28,7 @@ Gdy ciasto jest już wyrobione, podziel je na mniejsze kawałki i rozwałkuj na 
 Pokrój ciasto na paski o szerokości około 1 cm.
 Gotuj makaron w garnku z gotującą się, osoloną wodą przez około 3-4 minuty, aż będzie al dente. Odcedź makaron i podawaj z sosem.
 
-### Sos Bolognese  
+### Bolognese  
 
 Składniki:
 1 cebula
@@ -56,3 +56,21 @@ Dodaj mięso mielone i smaż, mieszając, aż się zarumieni.
 Dodaj pomidory z puszki, cukier, sól, pieprz, oregano, bazylię i tymianek. Mieszaj do połączenia składników.
 Dodaj białe wino i gotuj przez około 5 minut, aż odparuje.
 Zmniejsz ogień i gotuj sos przez około 45 minut, aż zgęstnieje, mieszając co jakiś czas. Jeśli sos jest zbyt gęsty, dodaj odrobinę wody lub bulionu.
+
+### Carbonara 
+
+Składniki:
+4 jajka
+100 g boczku wędzonego
+100 g parmezanu, startego
+2 łyżki oliwy z oliwek
+1 ząbek czosnku, posiekany
+sól i pieprz do smaku
+
+Przygotowanie:
+Ugotuj makaron spaghetti według instrukcji na opakowaniu. Osącz i odstaw.
+W małym rondelku podgrzej oliwę z oliwek i dodaj posiekany czosnek. Smaż przez kilka minut, aż zacznie się złocić.
+W międzyczasie pokrój boczek w kostkę i podsmaż na patelni aż zrumieni się z obu stron.
+W dużej misce roztrzep jajka z parmezanem, solą i pieprzem.
+Do jajek dodaj ugotowany makaron i podsmażony boczek z czosnkiem. Wymieszaj, aż makaron zostanie dokładnie pokryty sosem.
+Podawaj natychmiast, oprószając dodatkowo startym parmezanem.
