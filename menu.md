@@ -52,6 +52,11 @@
 4. BBQ - 5zł
 5. Pikantny pomidorowy - 5zł 
 
+## Dodatki
+1. Cukinia - 5zł
+2. Karczochy - 7zł
+3. Krewetki - 10zł
+
 ## Napoje 
 
 <img src = "img/napoje.jpg" width = 300>
