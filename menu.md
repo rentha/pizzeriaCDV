@@ -53,6 +53,9 @@
 5. Pikantny pomidorowy - 5zł 
 
 ## Dodatki
+
+<img src = "img/dodatki.jpg">
+
 1. Cukinia - 5zł
 2. Karczochy - 7zł
 3. Krewetki - 10zł
