@@ -133,3 +133,25 @@ Przygotowanie:
 W dużym naczyniu połącz sałatę rzymską, sałatę rukolę, pomidory, ogórka, czerwoną cebulę i oliwki.
 W osobnym naczyniu wymieszaj oliwę z oliwek, sok z cytryny, sól i pieprz. Polej sałatkę i delikatnie wymieszaj.
 Posyp pokruszonym serem feta i grzankami. Podawaj natychmiast.
+
+### Cezar 
+
+Składniki:
+200 g kurczaka
+4 plasterki bekonu
+1/2 pęczka sałaty rzymskiej
+1/2 pęczka sałaty rukoli
+2 pomidory, pokrojone w kostkę
+1/2 ogórka, pokrojonego w kostkę
+1/4 czerwonej cebuli, pokrojonej w kostkę
+1/4 szklanki oliwek
+2 łyżki oliwy z oliwek
+1 łyżeczka soku z cytryny
+sól i pieprz do smaku
+4 grzanki pokrojone w kostkę
+
+Przygotowanie:
+Na płycie grillowej lub w rondelku na płycie kuchennej usmaż kurczaka i bekon, aż się zrumienią. Odstaw na bok i pozostaw do ostygnięcia.
+W dużym naczyniu połącz sałatę rzymską, sałatę rukolę, pomidory, ogórka, czerwoną cebulę i oliwki.
+W osobnym naczyniu wymieszaj oliwę z oliwek, sok z cytryny, sól i pieprz. Polej sałatkę i delikatnie wymieszaj.
+Posyp pokruszonym serem feta i grzankami. Podawaj natychmiast.
