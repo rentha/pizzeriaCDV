@@ -71,12 +71,3 @@
 |3. | Piwo jasne                       |         | 12zł | 15zł |
 |3. | Piwo ciemne                      |         | 12zł | 15zł |
 |3. | Piwo bezalkoholowe               |         | 12zł | 15zł |
-
-
-
-
-
-
-
-
-
